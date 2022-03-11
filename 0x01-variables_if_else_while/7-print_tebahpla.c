@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints numbers from 0 - 9 using putchar
+ * main - print lowercase alphabet in reverse order
  * Return: 0 after successful execution
 */
 
@@ -9,12 +9,12 @@ int main(void)
 
 {
 
-char num;
-for (num = '0'; num <= '9'; num++)
+char chr;
+for (chr = 'z'; chr >= 'a'; chr--)
 
 {
 
-putchar(num);
+putchar(chr);
 
 }
 
