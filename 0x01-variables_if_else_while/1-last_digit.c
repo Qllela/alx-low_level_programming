@@ -7,12 +7,9 @@
 
 
 /**
- *
- *  * main - print the last digit of the number stored in the variable n
- *
- *   * Return: 0 if program executed successfully
- *
- *    */
+ * main - print the last digit of the number stored in the variable n
+ * Return: 0 if program executed successfully
+*/
 
 int main(void)
 
