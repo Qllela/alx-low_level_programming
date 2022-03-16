@@ -1,6 +1,6 @@
 /*
  * File: 5-sign.c
- * Auth: Brennan D Baraban
+ * Auth: Sylvia M Villela
 */
 
 #include "main.h"
