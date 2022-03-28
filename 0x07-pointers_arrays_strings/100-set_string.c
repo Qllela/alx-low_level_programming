@@ -1,10 +1,10 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
- * set_string - sets the value of a pointer to a char
- * @s: pointer to change
- * @to: string to change pointer to
- * Return: void
+ * set_string - set value
+ * @s: square matrix to find sum of
+ * @to: size of square matrix
 */
 
 void set_string(char **s, char *to)
