@@ -1,6 +1,6 @@
 #include "main.h"
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 int find_len(char *str);
 char *create_xarray(int size);
@@ -61,6 +61,7 @@ return (str);
 /**
  * get_digit - Converts a digit character to a corresponding int.
  * @c: The character to be converted.
+ *
  * Description: If c is a non-digit, the function
  *              exits with a status of 98.
  * Return: The converted int.
